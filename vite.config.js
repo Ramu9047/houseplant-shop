@@ -10,5 +10,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/houseplant-shop/', // 👈 IMPORTANT: match your repo name
+  base: '/', // 👈 IMPORTANT: match your repo name
 })
