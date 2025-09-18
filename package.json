@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Ramu9047.github.io/houseplant-shop",
+  "homepage": "https://Ramu9047.github.io/",
   "name": "houseplant-shop",
   "version": "1.0.0",
   "private": true,
@@ -10,7 +10,6 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
-
   },
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
